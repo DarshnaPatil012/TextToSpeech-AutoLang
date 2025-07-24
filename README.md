@@ -1,6 +1,6 @@
-# TextToSpeech-AutoLang
 
-# 🗣️ Text-to-Speech Converter with Language Auto-Detection
+
+#  Text-to-Speech Converter with Language Auto-Detection
 
 This Python project reads text from a file (`sample.txt`), **automatically detects the language**, and **converts it into speech** using the [Google Text-to-Speech (gTTS)](https://pypi.org/project/gTTS/) library.
 
